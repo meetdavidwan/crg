@@ -1,0 +1,4 @@
+pillow
+tqdm
+sentencepiece
+transformers==4.36.2
